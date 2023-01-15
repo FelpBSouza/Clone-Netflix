@@ -38,3 +38,9 @@ header nav a{
 header nav a:hover {
     color: #fff;
 }
+
+.box.filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
